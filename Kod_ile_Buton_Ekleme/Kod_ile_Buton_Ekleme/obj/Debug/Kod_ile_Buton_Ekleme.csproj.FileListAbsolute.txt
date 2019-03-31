@@ -1,0 +1,10 @@
+C:\Users\MKA\source\repos\Kod_ile_Buton_Ekleme\Kod_ile_Buton_Ekleme\bin\Debug\Kod_ile_Buton_Ekleme.exe.config
+C:\Users\MKA\source\repos\Kod_ile_Buton_Ekleme\Kod_ile_Buton_Ekleme\bin\Debug\Kod_ile_Buton_Ekleme.exe
+C:\Users\MKA\source\repos\Kod_ile_Buton_Ekleme\Kod_ile_Buton_Ekleme\bin\Debug\Kod_ile_Buton_Ekleme.pdb
+C:\Users\MKA\source\repos\Kod_ile_Buton_Ekleme\Kod_ile_Buton_Ekleme\obj\Debug\Kod_ile_Buton_Ekleme.csprojAssemblyReference.cache
+C:\Users\MKA\source\repos\Kod_ile_Buton_Ekleme\Kod_ile_Buton_Ekleme\obj\Debug\Kod_ile_Buton_Ekleme.Form1.resources
+C:\Users\MKA\source\repos\Kod_ile_Buton_Ekleme\Kod_ile_Buton_Ekleme\obj\Debug\Kod_ile_Buton_Ekleme.Properties.Resources.resources
+C:\Users\MKA\source\repos\Kod_ile_Buton_Ekleme\Kod_ile_Buton_Ekleme\obj\Debug\Kod_ile_Buton_Ekleme.csproj.GenerateResource.cache
+C:\Users\MKA\source\repos\Kod_ile_Buton_Ekleme\Kod_ile_Buton_Ekleme\obj\Debug\Kod_ile_Buton_Ekleme.csproj.CoreCompileInputs.cache
+C:\Users\MKA\source\repos\Kod_ile_Buton_Ekleme\Kod_ile_Buton_Ekleme\obj\Debug\Kod_ile_Buton_Ekleme.exe
+C:\Users\MKA\source\repos\Kod_ile_Buton_Ekleme\Kod_ile_Buton_Ekleme\obj\Debug\Kod_ile_Buton_Ekleme.pdb
